@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pacifynews/static/css/main.48979a0e.chunk.css",
+    "main.js": "/pacifynews/static/js/main.11cda013.chunk.js",
+    "main.js.map": "/pacifynews/static/js/main.11cda013.chunk.js.map",
+    "runtime-main.js": "/pacifynews/static/js/runtime-main.94a3098c.js",
+    "runtime-main.js.map": "/pacifynews/static/js/runtime-main.94a3098c.js.map",
+    "static/js/2.d98238ba.chunk.js": "/pacifynews/static/js/2.d98238ba.chunk.js",
+    "static/js/2.d98238ba.chunk.js.map": "/pacifynews/static/js/2.d98238ba.chunk.js.map",
+    "static/js/3.ecd67487.chunk.js": "/pacifynews/static/js/3.ecd67487.chunk.js",
+    "static/js/3.ecd67487.chunk.js.map": "/pacifynews/static/js/3.ecd67487.chunk.js.map",
+    "index.html": "/pacifynews/index.html",
+    "static/css/main.48979a0e.chunk.css.map": "/pacifynews/static/css/main.48979a0e.chunk.css.map",
+    "static/js/2.d98238ba.chunk.js.LICENSE.txt": "/pacifynews/static/js/2.d98238ba.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pacifynews/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94a3098c.js",
+    "static/js/2.d98238ba.chunk.js",
+    "static/css/main.48979a0e.chunk.css",
+    "static/js/main.11cda013.chunk.js"
+  ]
+}
