@@ -1,25 +1,19 @@
 import logo from './logo.svg';
 import './App.css';
-
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import React, {Component} from "react"
+import Navbar from './Navbar';
+import News from './News';
+import Apinews from './Apinews';
+import Footer from './Footer';
+export default class App extends Component{
+  c="john"
+  render(){
+    return(
+      <><Navbar />
+      <News/>
+      {/*<Apinews pagesize={4} country="in" category="general"/>*/}
+      <Footer/>
+      </>
+    )
+  }
 }
-
-export default App;
